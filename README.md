@@ -10,7 +10,20 @@ Welcome to the **Portrait Gallery Website**, a simple, aesthetic, and themed ima
 
 ## 📁 Project Structure
 
-📦 Portrait-Gallery ├── entry.html # Main entry page ├── aestheticp1.html # Aesthetic - Page 1 ├── aestheticp2.html # Aesthetic - Page 2 ├── classicp1.html # Classic India - Page 1 ├── classicp2.html # Classic India - Page 2 ├── darkp1.html # Dark - Page 1 ├── darkp2.html # Dark - Page 2 ├── style.css # Styling for all pages ├── javas.js # Navigation logic ├── aesthetic.mp3 # Background music for Aesthetic ├── indian.mp3 # Background music for Classic India ├── dark.mp3 # Background music for Dark ├── /images # Folder for all image files
+📦 Portrait-Gallery 
+├── entry.html # Main entry page 
+├── aestheticp1.html # Aesthetic - Page 1 
+├── aestheticp2.html # Aesthetic - Page 2
+├── classicp1.html # Classic India - Page 1 
+├── classicp2.html # Classic India - Page 2 
+├── darkp1.html # Dark - Page 1 
+├── darkp2.html # Dark - Page 2 
+├── style.css # Styling for all pages 
+├── javas.js # Navigation logic 
+├── aesthetic.mp3 # Background music for Aesthetic 
+├── indian.mp3 # Background music for Classic India 
+├── dark.mp3 # Background music for Dark 
+├── /images # Folder for all image files
 
 ---
 
