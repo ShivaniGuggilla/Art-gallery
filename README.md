@@ -1,4 +1,4 @@
-![Screenshot (252)](https://github.com/user-attachments/assets/91c823ea-c939-4e49-b05c-cff10a2a95d3)![Screenshot (251)](https://github.com/user-attachments/assets/34f7ad77-bcf6-4735-aef3-58a606d01714)![Screenshot (250)](https://github.com/user-attachments/assets/bc7d08ce-4078-4631-94c4-17686ce16ff4)![Screenshot (249)](https://github.com/user-attachments/assets/0b0d1a4c-5bc2-431f-a9ef-e1064d5f1e11)# 🎨 Portrait Gallery Website
+## 🎨 Portrait Gallery Website
 
 Welcome to the **Portrait Gallery Website**, a simple, aesthetic, and themed image gallery showcasing portrait collections under three categories: **Aesthetic**, **Classic India**, and **Dark**.
 
